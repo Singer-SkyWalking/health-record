@@ -2,7 +2,7 @@
 
 #### 介绍
 
- **SpringBoot2.X VUE Antd  MyBatis Shiro Java 系统监控 JVM 可作为毕业设计和快速开发 健康管理系统** 
+ **SpringBoot2.X VUE2.6 Antd1.7.2  TkMyBatis Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 健康管理系统** 
 
 #### 联系作者
 
