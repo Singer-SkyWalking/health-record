@@ -185,13 +185,13 @@ https://binfenyeke.com/admin-platform-health
 
 ####  **联系作者** 
 
-**这是作者的微信二维码，如需本项目源代码，进入技术交流群请联系作者** 
+ **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。 17381852768 微信同号**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
 
 **这是作者的技术技术交流群二维码，如已过期请扫码联系作者拉群** 
 
-![输入图片说明](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4-2.png "技术交流群-1.jpeg")
+![输入图片说明](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png "技术交流群.png")
 
 #### 安装教程
 
@@ -214,12 +214,3 @@ https://binfenyeke.com/admin-platform-health
 2.  新建 Feature_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
