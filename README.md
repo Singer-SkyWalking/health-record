@@ -21,18 +21,26 @@ https://binfenyeke.com/admin-platform-health
 #### 前端技术架构
 
 1. Antd-VUE
-2. 自定义权限指令
-3. 自定义上传组件等
+2. 页面,按钮级别权限控制。
+3. 多个组件封装，调用方便。
+4. Antv图表组件。
+5. WebPack
+6. ES6
+7. 多环境打包。
+8. VUE路由，过滤器，自定义指令。
+9. 代码简洁，符合编码规范。
 
 #### 后端技术架构
 
 1. SpringBoot2.x
-2. Shiro
-3. Redis
-4. MyBatis
-5. MySQL
+2. Shiro权限框架
+3. Redis6.X最新版
+4. MyBatis注解版
+5. MySQL6.7
 6. 分模块开发，自定义启动脚本，JVM调优
-6. 多环境
+7. 多环境,前后端完全分离。
+8. 代码生成器。
+9. orika传输对象映射器。
 
 #### 系统截图展示
 
@@ -196,7 +204,7 @@ https://binfenyeke.com/admin-platform-health
 #### 安装教程
 
 #### 后端安装方法
-1.  mvn clean pakage
+1.  mvn clean package
 2.  tar -zxvf health-record-api.tar.gz (解压tar包)
 3.  cd health-record-api
 5.  sh /sbin/startup.sh dev
