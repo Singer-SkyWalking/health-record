@@ -10,9 +10,9 @@
 
 #### 演示地址
 ```
-https://binfenyeke.com/admin-platform-health
-账号: admin
-密码: 123456
+登录地址: https://www.skywalking.pro/health-record
+登录账号: admin
+登录密码: 123456
 ```
 若演示地址不可用，可翻到文末扫码联系作者微信或者留言
 
@@ -185,9 +185,9 @@ https://binfenyeke.com/admin-platform-health
 
 #### 演示地址
 ```
-https://binfenyeke.com/admin-platform-health
-账号: admin
-密码: 123456
+登录地址: https://www.skywalking.pro/health-record
+登录账号: admin
+登录密码: 123456
 ```
 若演示地址不可用，可扫码联系作者微信或者留言
 
@@ -204,15 +204,20 @@ https://binfenyeke.com/admin-platform-health
 #### 安装教程
 
 #### 后端安装方法
+
+```
 1.  mvn clean package
 2.  tar -zxvf health-record-api.tar.gz (解压tar包)
 3.  cd health-record-api
 5.  sh /sbin/startup.sh dev
-
+```
 #### 前端安装方法
+
+```
 1.  yarn install (安装node_moudle)
 2.  yarn start (启动)
 3.  yarn build:pro (构建生产包)
+```
 #### 使用说明
 
 见上面安装方法
