@@ -4,9 +4,9 @@
 
  **SpringBoot2.X VUE2.6 Antd1.7.2  TkMyBatis Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 健康管理系统** 
 
-#### 联系作者
-
- **见文末** 
+### 联系作者
+ **微信号:** SkywalkingPro
+ **见文末微信二维码** 
 
 #### 演示地址
 ```
